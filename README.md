@@ -70,3 +70,18 @@ Identifying design properties from a mockup design is fundamental for several re
 - Facilitating Collaboration: Design specifications act as a common language between designers and developers. Everyone involved in the project has a clear understanding of the visual requirements, minimizing miscommunication.
 - Improving User Experience (UX): Precise implementation of design elements contributes directly to the overall user experience. Correct typography ensures readability, and accurate color usage reinforces brand identity and guides user attention effectively.
 - Accessibility: Adhering to specified font sizes, color contrasts (which derive from identified color codes), and visual hierarchies directly supports WCAG guidelines, making the application accessible to a wider audience.
+
+## Project Roles and Responsibilities
+
+A well-defined team structure and clear responsibilities are essential for the successful execution and delivery of this project. Each role contributes uniquely to the overall objectives.
+
+### Role Responsibilities
+
+* **Project Manager:** Oversees the project timeline, coordinates the team's efforts, and manages all project deliverables to ensure they meet requirements and are completed on schedule.
+* **Frontend Developers:** Implements the user interface (UI) components, translating design mockups into functional code, and ensures the application is responsive across various devices.
+* **Backend Developers:** Builds and maintains the application's APIs, manages the database infrastructure, and implements the core business logic that powers the application.
+* **Designers:** Creates the visual mockups and prototypes, maintains the project's design system, and ensures an optimal user experience (UX) through intuitive and aesthetically pleasing interfaces.
+* **QA/Testers:** Develops and executes test cases, performs comprehensive testing (unit and integration), and reports bugs to ensure the software's quality and reliability.
+* **DevOps Engineers:** Manages the deployment process, establishes and maintains the Continuous Integration/Continuous Delivery (CI/CD) pipeline, and oversees the server infrastructure.
+* **Product Owner:** Defines the project requirements, prioritizes features based on business value and user needs, and represents the stakeholders' interests throughout the development cycle.
+* **Scrum Master:** Facilitates agile processes and ceremonies, removes impediments or blockers that hinder team progress, and organizes team meetings to foster effective collaboration.
