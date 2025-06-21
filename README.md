@@ -85,3 +85,29 @@ A well-defined team structure and clear responsibilities are essential for the s
 * **DevOps Engineers:** Manages the deployment process, establishes and maintains the Continuous Integration/Continuous Delivery (CI/CD) pipeline, and oversees the server infrastructure.
 * **Product Owner:** Defines the project requirements, prioritizes features based on business value and user needs, and represents the stakeholders' interests throughout the development cycle.
 * **Scrum Master:** Facilitates agile processes and ceremonies, removes impediments or blockers that hinder team progress, and organizes team meetings to foster effective collaboration.
+
+## UI Component Patterns
+
+To ensure a consistent user experience and efficient development, the project will implement a component-based architecture. This approach focuses on creating reusable UI components that can be utilized across various parts of the application.
+
+### Planned Components
+
+* **Navbar:**
+    * **Logo:** Displays the application's brand identity.
+    * **Search bar:** Allows users to input search queries for properties.
+    * **User navigation:** Provides access to user-specific actions (e.g., login, profile, account settings).
+    * **Responsive menu:** Adapts for smaller screens to ensure navigability on mobile devices.
+
+* **Property Card:**
+    * **Property image:** Displays a visually appealing image of the property.
+    * **Basic details:** Includes essential information such as price, location, and user ratings.
+    * **Favorite button:** Enables users to save properties to a wishlist.
+    * **Responsive layout:** Ensures the card's appearance and functionality are optimized for different screen sizes.
+
+* **Footer:**
+    * **Site links:** Provides navigation to important sections of the website.
+    * **Company information:** Includes details about the company.
+    * **Social media links:** Connects users to the project's social media presence.
+    * **Copyright information:** States the copyright details for the application.
+
+
