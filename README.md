@@ -43,3 +43,30 @@ The application will feature the following primary pages:
 
 ## **Importance of User-Friendly Design** 
 A well-designed booking system is crucial for reducing friction in the user journey, which directly contributes to increased conversion rates and improved customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical elements for achieving these objectives and ensuring a successful web application.
+
+## **Color Styles:**
+Primary: #FF5A5F
+- **Primary:** #FF5A5F
+- **Secondary:** #008489
+- **Background:** #FFFFFF
+- **Text:** #222222
+- **Secondary Text:** #717171
+
+## **Typography:**
+- **Primary Font Family:** Circular
+- **Primary Font Weight:** Medium (500)
+- **Primary Font Size:** 16px
+- **Headings Font Family:** Circular
+- **Headings Font Weight:** Bold (700)
+- **Headings Font Size:** 24px-32px
+- **Secondary Text Font Family:** Circular
+- **Secondary Text Font Weight:** Book (400)
+- **Secondary Text Font Size:** 14px
+
+## **Importance of Identifying Design Properties of a Mockup Design:**
+Identifying design properties from a mockup design is fundamental for several reasons:
+
+- Ensuring Visual Consistency: By extracting exact color codes, font families, weights, and sizes, developers can ensure that the implemented user interface precisely matches the designer's vision. This consistency builds trust and a professional image for the application.
+- Facilitating Collaboration: Design specifications act as a common language between designers and developers. Everyone involved in the project has a clear understanding of the visual requirements, minimizing miscommunication.
+- Improving User Experience (UX): Precise implementation of design elements contributes directly to the overall user experience. Correct typography ensures readability, and accurate color usage reinforces brand identity and guides user attention effectively.
+- Accessibility: Adhering to specified font sizes, color contrasts (which derive from identified color codes), and visual hierarchies directly supports WCAG guidelines, making the application accessible to a wider audience.
